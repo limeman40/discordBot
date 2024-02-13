@@ -23,10 +23,14 @@
   },
   "homepage": "https://github.com/limeman40/discordBot#readme",
   "dependencies": {
-    "@discordjs/builders": "^1.7.0",
-    "axios": "^1.6.5",
-    "discord.js": "^14.14.1",
-    "dotenv": "^16.3.1"
+    "@discordjs/builders": "*",
+    "axios": "*",
+    "discord.js": "*",
+    "discord.js-commando": "*",
+    "dotenv": "*",
+    "fs": "*",
+    "node-fetch": "*",
+    "query-string": "*"
   },
   "devDependencies": {
     "eslint": "^8.56.0"
